@@ -1,6 +1,6 @@
 ### Biased Estimator for OFDMA
 
-With Vaishnavi Adella(now at Qualcomm, India), Sai Charan Thoutam(now at Qualcomm, India)
+With Vaishnavi Adella (now at Qualcomm, India), Sai Charan Thoutam (now at Qualcomm, India)
 
 Implemented the [paper](http://ieeexplore.ieee.org/document/6471293/) : Biased estimators with adaptive shrinkage targets for orthogonal frequency division multiple access channel estimation
 
